@@ -1,5 +1,6 @@
 ---
 title: Readme
+permalink: /
 ---
 ## playing around with python machine learning and AI
 

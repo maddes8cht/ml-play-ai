@@ -1,6 +1,3 @@
----
-title: welcome
----
 
 ## playing around with python machine learning and AI
 
